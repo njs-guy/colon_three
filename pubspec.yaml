@@ -1,4 +1,4 @@
-name: yay
+name: colon_three
 description: "This app does nothing. Have fun!"
 publish_to: 'none'
 
@@ -15,6 +15,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   flutter_launcher_icons: ^0.13.1
+  change_app_package_name: ^1.1.0
 
 dev_dependencies:
   flutter_test:

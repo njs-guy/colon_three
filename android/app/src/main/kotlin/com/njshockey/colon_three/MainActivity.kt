@@ -1,4 +1,4 @@
-package com.example.yay
+package com.njshockey.colon_three
 
 import io.flutter.embedding.android.FlutterActivity
 
